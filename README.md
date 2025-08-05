@@ -1,2 +1,2 @@
-# P3_Portfolio
-Portfolio Site for IAT 339 
+# SamAmin_P3
+Project 3 Portfolio
